@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.top {
+    width: 1920px;
+    height: 700px;
+}
+
+.header {
+    margin-top: 40px;
+    margin-left: 375px;
+    margin-right: 375px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 346px;
+}
+
+.head_links {
+    width: 533px;
+    font-size: 14px;
+    line-height: 16.41px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.head_link {
+    color: #000000;
+}
+
+.head_link1 {
+    color: #F25822;
+}
+
+.content {
+    margin-top: 84px;
+    margin-bottom: 162px;
+    margin-left: 375px;
+    width: 1172px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 39px;
+}
+
+.content_text {
+    width: 522px;
+
+}
+
+.h1 {
+    width: 522px;
+    font-size: 60px;
+    line-height: 70.31px;
+    text-align: left;
+}
+
+.text {
+    width: 466px;
+    padding-top: 17px;
+    padding-left: 38px;
+    padding-right: 18px;
+    font-size: 20px;
+    line-height: 23.44px;
+    text-align: left;
+    color: #888888;
+}
+
+.content_buttons {
+    padding-top: 37px;
+    width: 302px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 72px;
+}
+
+.button1 {
+    border-radius: 50px;
+    font-size: 15px;
+    line-height: 17.58px;
+    text-align: left;
+    color: #FFFFFF;
+    background: #F25822;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 140px;
+    height: 50px;
+}
+
+.button2 {
+    color: #AAAAAA;
+    font-size: 15px;
+    line-height: 17.58px;
+    text-align: left;
+
+}
+
+.content_image {
+    width: 545px;
+}
+
+.logos {
+    height: 50px;
+    width: 1200px;
+    margin-left: 345px;
+    margin-top: 97px;
+    margin-bottom: 96px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-around;
+    align-items: center;
+
+}
